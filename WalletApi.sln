@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletApi", "WalletApi\WalletApi.csproj", "{3380801E-45F1-441E-A6BE-A3B5F3707556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletApi.Data", "WalletApi.Data\WalletApi.Data.csproj", "{A1FAA880-6452-4542-8C35-A09F36C6EB8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletApi.Web", "WalletApi.Web\WalletApi.Web.csproj", "{53D84AA8-4A62-4F39-87A8-54B987682E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletApi.Core", "WalletApi.Core\WalletApi.Core.csproj", "{B29AFD47-0CD1-4A27-9014-4E3A9AD58A12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3380801E-45F1-441E-A6BE-A3B5F3707556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3380801E-45F1-441E-A6BE-A3B5F3707556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3380801E-45F1-441E-A6BE-A3B5F3707556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3380801E-45F1-441E-A6BE-A3B5F3707556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1FAA880-6452-4542-8C35-A09F36C6EB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FAA880-6452-4542-8C35-A09F36C6EB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FAA880-6452-4542-8C35-A09F36C6EB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FAA880-6452-4542-8C35-A09F36C6EB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D84AA8-4A62-4F39-87A8-54B987682E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D84AA8-4A62-4F39-87A8-54B987682E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D84AA8-4A62-4F39-87A8-54B987682E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D84AA8-4A62-4F39-87A8-54B987682E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29AFD47-0CD1-4A27-9014-4E3A9AD58A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29AFD47-0CD1-4A27-9014-4E3A9AD58A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29AFD47-0CD1-4A27-9014-4E3A9AD58A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29AFD47-0CD1-4A27-9014-4E3A9AD58A12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

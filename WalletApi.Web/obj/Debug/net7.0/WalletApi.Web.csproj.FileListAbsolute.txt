@@ -1,0 +1,17 @@
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\bin\Debug\net7.0\WalletApi.Web.deps.json
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\bin\Debug\net7.0\WalletApi.Web.dll
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\bin\Debug\net7.0\WalletApi.Web.pdb
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\bin\Debug\net7.0\WalletApi.Core.dll
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\bin\Debug\net7.0\WalletApi.Data.dll
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\bin\Debug\net7.0\WalletApi.Core.pdb
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\bin\Debug\net7.0\WalletApi.Data.pdb
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\obj\Debug\net7.0\WalletApi.Web.csproj.AssemblyReference.cache
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\obj\Debug\net7.0\WalletApi.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\obj\Debug\net7.0\WalletApi.Web.AssemblyInfoInputs.cache
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\obj\Debug\net7.0\WalletApi.Web.AssemblyInfo.cs
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\obj\Debug\net7.0\WalletApi.Web.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\obj\Debug\net7.0\WalletApi.Web.csproj.CopyComplete
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\obj\Debug\net7.0\WalletApi.Web.dll
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\obj\Debug\net7.0\refint\WalletApi.Web.dll
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\obj\Debug\net7.0\WalletApi.Web.pdb
+C:\Users\Andrii\RiderProjects\WalletApi\WalletApi.Web\obj\Debug\net7.0\ref\WalletApi.Web.dll
